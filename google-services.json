@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "436712653906",
+    "firebase_url": "https://my-tripie-app.firebaseio.com",
+    "project_id": "my-tripie-app",
+    "storage_bucket": "my-tripie-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436712653906:android:9c848bcbe35693cc",
+        "android_client_info": {
+          "package_name": "com.example.azheng.rxjavamvpdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436712653906-e9lbibrnd9idhl6fdaq0003ghas6btmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgFLyqufiSp0EjdGIm8NQXx8r_BKjTdM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436712653906-e9lbibrnd9idhl6fdaq0003ghas6btmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
