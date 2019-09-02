@@ -17,8 +17,6 @@ import retrofit2.converter.gson.GsonConverterFactory;
 /**
  * @author azheng
  * @date 2018/4/17.
- * GitHub：https://github.com/RookieExaminer
- * email：wei.azheng@foxmail.com
  * description：
  */
 public class RetrofitClient {

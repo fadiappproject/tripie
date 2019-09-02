@@ -14,8 +14,6 @@ import io.reactivex.schedulers.Schedulers;
 /**
  * @author azheng
  * @date 2018/4/16.
- * GitHub：https://github.com/RookieExaminer
- * email：wei.azheng@foxmail.com
  * description：RXjava 线程调度
  */
 public class RxScheduler {
